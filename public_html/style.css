@@ -1,0 +1,10 @@
+#wrapper {
+    width:600px;
+    margin: 0 auto;
+}
+#canvas {
+    border: 1px solid #000;
+    background-color: #444444;
+    background-image: url("images/bg.fw.png");
+    background-repeat: repeat;
+}
